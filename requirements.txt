@@ -1,0 +1,6 @@
+xgboost==0.82
+missingno==0.4.1
+lightgbm==2.2.3
+tqdm==4.31.1
+category_encoders==1.3.0
+
