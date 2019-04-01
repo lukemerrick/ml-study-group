@@ -1,6 +1,7 @@
 # jupyter stuff
 .ipython/
 .local/share/jupyter
+.jupyter
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
